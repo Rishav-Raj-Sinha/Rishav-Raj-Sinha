@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishav-Raj-Sinha
+- 👋 Hi, I’m Rishav
 - 👀 I’m interested in - ***Web development, c++, UI/UX designing and grahic designing.***
 - 🌱 I’m currently learning - ***Back end web development, DSA and basic data analysis.***
 - 💞️ I’m looking to collaborate on - ***Web development projects.***
