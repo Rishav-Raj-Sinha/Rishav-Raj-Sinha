@@ -32,6 +32,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Rishav-Raj-Sinha/Rishav-Raj-Sinha/output/snake.svg" alt="Snake animation" />
+
+###
+
 <img align="left" height="120" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXF4dzMydjg2YXYxc2NjdTRyNnN3NGhtdTgxNmtrNmJlczVvNXFlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MEjrKu7fMUtOMBHf4j/giphy.gif"  />
 
 ###
@@ -44,6 +48,6 @@
 
 ###
 
-<p align="left">:3</p>
+<p align="center">:3</p>
 
 ###
