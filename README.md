@@ -25,9 +25,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishav-Raj-Sinha&radius=12&theme=tokyo-night&area=true&order=5&hide_border=true" height="140" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=Rishav-Raj-Sinha&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishav-Raj-Sinha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishav-Raj-Sinha&radius=12&theme=tokyo-night&area=true&order=5&hide_border=true" height="100" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rishav-Raj-Sinha&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishav-Raj-Sinha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="100" alt="languages graph"  />
 </div>
 
 ###
