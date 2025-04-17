@@ -2,7 +2,9 @@
 
 ###
 
-<img align="right" height="100" src="https://media.giphy.com/media/w8jI6Vv31Hf8Y/giphy.gif?cid=ecf05e47nn4m70894ui47aisvd6c6ake0ci6m1yvk8lca056&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<div align="left">
+  <img height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl5bm1uaWNyZDFzbXB0NjZoMnV0dXJ5bTdybncwajFoaXV1enZzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6wNMRNQ3vczLxas8/giphy.gif"  />
+</div>
 
 ###
 
@@ -59,7 +61,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/rishav-raj-3a1955251/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
